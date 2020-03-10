@@ -1,0 +1,22 @@
+Acronym,Function,Variable name,Explanation
+prhvos,IV,Prohibitive voice,"How much does the focal employee engage in promotive voice, i.e. bringing attention to problems to improve workplace practices?"
+prmvos,IV,Promotive voice,"How much does the focal employee engage in promotive voice, i.e. making suggestions to improve workplace practices?"
+morobs,IV,Moral objection,"How much does the focal employee engage in moral objections, i.e.  bringing attention to moral worngdoing to improve workplace practices?"
+guilt,Mediator,Guilt,Do supervisors feel guilt when they think of the focal employee's voice behavior?
+pride,Mediator,Pride,Do supervisors feel pride when they think of the focal employee's voice behavior?
+emorep,Mediator,Emotional response,"What is supervisors' emotional response when the focal employee speaks up? (E.g. angry, sad, frustrated)"
+vofrequ,Moderator,Voice frequency,How often does the employee speak up?
+prhvoss,Moderator,Prohibitive voice supervisor,How much do supervisors engage in prohibitive voice themselves?
+obse,Moderator,Organization-based self-esteem,Supervisors' organization-based self-esteem
+morobss,Moderator,Moral objection supervisor,How much do supervisors engage in moral objections themselves?
+feeltr,Outcome,Feeling trusted,How much do supervisors trusted by the focal employee?
+SER,Outcome,Social exchange relationship,Hoe do supervisors rate the relationship between them and the focal employee as one characterized by reciprocity?
+selfas,Moderator,Self-assurance,How assured are supervisors of themselves in their role?
+VoicSat,Moderator,Voice satisfaction,Are supervisors satisfied with the focal employee's voice behavior?
+frame,Moderator,Framing,How positive/negative does the focal employee frame issues in general when speaking up?
+comval,Moderator,Communal values,How much do supervisors embrace communal values?
+authov,Moderator,Authoritarian values,How much do supervisors embrace authoritarian values?
+corese,Moderator,Core self-esteem,How much self-esteem do supervisors have?
+ueprorg,Moderator,Unethical pro-organizational behavior,How sure are supervisors that the focal employee would engage in unethical actions to benefit the organization?
+shame,Mediator,Shame,Do supervisors feel shame when they think of the focal employee's voice behavior?
+constr,Moderator,Construal level,Do supervisors conceive of workplace issues in terms of details (low construal level) or abstract concepts (high construal level)?
